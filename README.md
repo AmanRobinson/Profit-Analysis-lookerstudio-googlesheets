@@ -13,7 +13,7 @@ This project is a deep-dive **Profit Analysis** built using **Google Looker Stud
 ---
 
 ### 📸 Dashboard Preview
-![Profit Analysis Screenshot](Profit Analysis.jpeg) 
+![Profit Analysis Screenshot](Profit%20Analysis.jpeg) 
 *Comprehensive view of sales (2.3M) and profit (286.4K) metrics with regional mapping.*
 
 ---
